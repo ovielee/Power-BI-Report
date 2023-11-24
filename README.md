@@ -34,7 +34,8 @@ It contains 1 sheet/table with 9,291 rows and 20 columns
 
 
 # PowerBi Data Visualisation
+![Sales](https://github.com/ovielee/Power-BI-Report/assets/62611725/a7658fe9-7c69-4346-a3f6-2196913f2f75)
 
-
+![profit](https://github.com/ovielee/Power-BI-Report/assets/62611725/16a83b4f-b82a-486c-a183-b753c5f890b6)
 
 # Conclusions 
