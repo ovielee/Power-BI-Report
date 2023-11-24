@@ -11,9 +11,18 @@ DAX Concepts: Calculated column, Custom Column, Year(), IF().
 
 
 # Problem Statement
+The managers of the business require a one-stop shop where it can see its performance and make a decision. The report is to analyze and respond to the following questions:
 
+What is the best shipping mode?
+What is the City they ship to the most?
+Which product is more profitable?
+Which of our customers are most important?
+Any other relevant data-driven insight into our sales.
 
 # Data Sourcing
+The data was sourced from the internet, I then downloaded the CSV file and extracted it into Power BI for cleaning, analysis and visualization.
+
+It contains 1 sheet/table with 9,291 rows and 20 columns
 
 
 # Data Transformation/Cleaning
