@@ -6,6 +6,7 @@
 The task is to review the sales dataset for John Doe Overseas and practice my skills of data cleaning, analysis and visualization using PowerBI
 
 **Power BI Concepts applied:**
+
 DAX Concepts: Calculated column, Custom Column, Year(), IF().
 
 
