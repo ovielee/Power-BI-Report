@@ -1,5 +1,6 @@
 # John Doe Overseas Sales Report
-https://github.com/ovielee/Power-BI-Report/issues/1#issue-2008938546
+
+![Blue Illustration Sales Report Business Presentation](https://github.com/ovielee/Power-BI-Report/assets/62611725/c034a9e4-a4b3-4c39-93d6-de216102c841)
 
 # Introduction
 
