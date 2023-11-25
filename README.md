@@ -26,11 +26,7 @@ It contains 1 sheet/table with 9,291 rows and 20 columns
 
 
 # Data Transformation/Cleaning
-
-
-
-# Data Modeling
-
+Data was efficiently cleaned and transformed with the Power Query Editor of Power BI.
 
 
 # PowerBi Data Visualisation
